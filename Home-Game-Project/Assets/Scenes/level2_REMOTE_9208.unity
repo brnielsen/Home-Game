@@ -33173,10 +33173,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   replace: {fileID: 21300000, guid: 5fe537f67b7425d438558f3d06ac8a30, type: 3}
   tilemap: {fileID: 1384519216}
-<<<<<<< HEAD
-=======
   redgreen: {fileID: 699268911}
->>>>>>> Floorplan
   colliding: {fileID: 279646072}
   check: {fileID: 21300000, guid: 2582db2dba98cab49af2676856bed4bd, type: 3}
   moveSpeed: 5
@@ -33344,11 +33341,7 @@ Tilemap:
       m_TileIndex: 1
       m_TileSpriteIndex: 1
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 2
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -33357,11 +33350,7 @@ Tilemap:
       m_TileIndex: 1
       m_TileSpriteIndex: 1
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 2
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -33370,11 +33359,7 @@ Tilemap:
       m_TileIndex: 1
       m_TileSpriteIndex: 1
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 2
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -33383,11 +33368,7 @@ Tilemap:
       m_TileIndex: 1
       m_TileSpriteIndex: 1
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 2
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -33396,11 +33377,7 @@ Tilemap:
       m_TileIndex: 1
       m_TileSpriteIndex: 1
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 2
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -33409,11 +33386,7 @@ Tilemap:
       m_TileIndex: 1
       m_TileSpriteIndex: 1
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 2
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -33422,11 +33395,7 @@ Tilemap:
       m_TileIndex: 1
       m_TileSpriteIndex: 1
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 2
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -33435,11 +33404,7 @@ Tilemap:
       m_TileIndex: 1
       m_TileSpriteIndex: 1
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 2
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -33448,11 +33413,7 @@ Tilemap:
       m_TileIndex: 1
       m_TileSpriteIndex: 1
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 2
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -34001,11 +33962,7 @@ Tilemap:
       m_TileIndex: 1
       m_TileSpriteIndex: 1
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 2
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -34014,11 +33971,7 @@ Tilemap:
       m_TileIndex: 1
       m_TileSpriteIndex: 1
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 2
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -34027,11 +33980,7 @@ Tilemap:
       m_TileIndex: 1
       m_TileSpriteIndex: 1
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 2
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -34049,11 +33998,7 @@ Tilemap:
       m_TileIndex: 1
       m_TileSpriteIndex: 1
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 2
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -34062,11 +34007,7 @@ Tilemap:
       m_TileIndex: 1
       m_TileSpriteIndex: 1
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 2
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -34075,11 +34016,7 @@ Tilemap:
       m_TileIndex: 1
       m_TileSpriteIndex: 1
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 2
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -34088,11 +34025,7 @@ Tilemap:
       m_TileIndex: 1
       m_TileSpriteIndex: 1
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 2
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -34667,21 +34600,12 @@ Tilemap:
       e32: 0
       e33: 1
   m_TileColorArray:
-<<<<<<< HEAD
-  - m_RefCount: 137
-    m_Data: {r: 1, g: 1, b: 1, a: 1}
-  - m_RefCount: 0
-    m_Data: {r: 2.3239e-41, g: 2.3239e-41, b: 2.3239e-41, a: 2.3239e-41}
-  - m_RefCount: 0
-    m_Data: {r: 2.7407e-41, g: 2.7407e-41, b: 2.7407e-41, a: 2.7407e-41}
-=======
   - m_RefCount: 121
     m_Data: {r: 1, g: 1, b: 1, a: 1}
   - m_RefCount: 0
     m_Data: {r: 2.3239e-41, g: 2.3239e-41, b: 2.3239e-41, a: 2.3239e-41}
   - m_RefCount: 16
     m_Data: {r: 1, g: 1, b: 1, a: 0}
->>>>>>> Floorplan
   m_AnimationFrameRate: 1
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_Origin: {x: -72, y: -35, z: 0}
@@ -35225,11 +35149,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -35238,11 +35158,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -35251,11 +35167,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -35264,11 +35176,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -35277,11 +35185,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -35290,11 +35194,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -35303,11 +35203,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -35316,11 +35212,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -35329,11 +35221,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -35342,11 +35230,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -35355,11 +35239,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -35368,11 +35248,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -35381,11 +35257,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -35394,11 +35266,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -35407,11 +35275,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -35420,11 +35284,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -35433,11 +35293,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -35446,11 +35302,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -35459,11 +35311,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -35472,11 +35320,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -35485,11 +35329,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -35498,11 +35338,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -35511,11 +35347,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -35524,11 +35356,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -35537,11 +35365,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -35550,11 +35374,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -35563,11 +35383,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -35576,11 +35392,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -35589,11 +35401,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -35602,11 +35410,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -35615,11 +35419,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -35628,11 +35428,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -35641,11 +35437,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -35654,11 +35446,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -35667,11 +35455,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -35680,11 +35464,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -35693,11 +35473,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -35706,11 +35482,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -35719,11 +35491,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -35732,11 +35500,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -35745,11 +35509,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -35758,11 +35518,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -35771,11 +35527,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -35784,11 +35536,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -35797,11 +35545,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -35810,11 +35554,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -35823,11 +35563,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -35836,11 +35572,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -35849,11 +35581,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -35862,11 +35590,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -35875,11 +35599,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -35888,11 +35608,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -35901,11 +35617,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -35914,11 +35626,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -35927,11 +35635,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -35940,11 +35644,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -35953,11 +35653,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -35966,11 +35662,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -35979,11 +35671,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -35992,11 +35680,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -36005,11 +35689,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -36018,11 +35698,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -36031,11 +35707,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -36044,11 +35716,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -36057,11 +35725,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -36070,11 +35734,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -36083,11 +35743,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -36096,11 +35752,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -36109,11 +35761,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -36122,11 +35770,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -36135,11 +35779,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -36148,11 +35788,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -36161,11 +35797,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -36174,11 +35806,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -36187,11 +35815,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -36200,11 +35824,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -36213,11 +35833,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -36226,11 +35842,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -36239,11 +35851,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -36252,11 +35860,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -36265,11 +35869,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -36368,11 +35968,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -36462,11 +36058,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -36529,11 +36121,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -36704,11 +36292,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -36996,11 +36580,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -37009,11 +36589,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -37112,11 +36688,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -37206,11 +36778,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -37273,11 +36841,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -37448,11 +37012,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -37740,11 +37300,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -37753,11 +37309,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -37856,11 +37408,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -37950,11 +37498,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -38017,11 +37561,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -38192,11 +37732,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -38484,11 +38020,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -38497,11 +38029,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -38600,11 +38128,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -38694,11 +38218,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -38761,11 +38281,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -38936,11 +38452,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -39228,11 +38740,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -39241,11 +38749,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -39344,11 +38848,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -39357,11 +38857,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -39370,11 +38866,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -39383,11 +38875,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -39423,11 +38911,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -39436,11 +38920,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -39449,11 +38929,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -39462,11 +38938,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -39529,11 +39001,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -39704,11 +39172,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -39996,11 +39460,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -40009,11 +39469,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -40112,11 +39568,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -40269,11 +39721,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -40444,11 +39892,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -40736,11 +40180,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -40749,11 +40189,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -40852,11 +40288,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -41009,11 +40441,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -41184,11 +40612,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -41476,11 +40900,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -41489,11 +40909,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -41592,11 +41008,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -41749,11 +41161,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -41924,11 +41332,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -42216,11 +41620,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -42229,11 +41629,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -42485,11 +41881,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -42660,11 +42052,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -42952,11 +42340,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -42965,11 +42349,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -43221,11 +42601,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -43396,11 +42772,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -43688,11 +43060,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -43701,11 +43069,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -43957,11 +43321,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -44132,11 +43492,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -44145,11 +43501,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -44158,11 +43510,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -44171,11 +43519,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -44184,11 +43528,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -44197,11 +43537,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -44237,11 +43573,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -44250,11 +43582,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -44263,11 +43591,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -44276,11 +43600,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -44289,11 +43609,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -44302,11 +43618,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -44315,11 +43627,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -44328,11 +43636,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -44341,11 +43645,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -44354,11 +43654,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -44367,11 +43663,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -44380,11 +43672,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -44393,11 +43681,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -44433,11 +43717,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -44446,11 +43726,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -44459,11 +43735,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -44472,11 +43744,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -44485,11 +43753,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -44498,11 +43762,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -44511,11 +43771,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -44524,11 +43780,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -44537,11 +43789,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -44640,11 +43888,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -44797,11 +44041,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -44972,11 +44212,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -45264,11 +44500,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -45277,11 +44509,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -45380,11 +44608,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -45537,11 +44761,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -45712,11 +44932,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -46004,11 +45220,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -46017,11 +45229,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -46120,11 +45328,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -46277,11 +45481,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -46452,11 +45652,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -46744,11 +45940,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -46757,11 +45949,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -46770,11 +45958,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -46783,11 +45967,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -46796,11 +45976,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -46809,11 +45985,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -46822,11 +45994,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -46835,11 +46003,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -46848,11 +46012,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -46861,11 +46021,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -46874,11 +46030,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -46887,11 +46039,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -46900,11 +46048,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -46913,11 +46057,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -46926,11 +46066,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -47074,11 +46210,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -47087,11 +46219,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -47100,11 +46228,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -47113,11 +46237,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -47126,11 +46246,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -47139,11 +46255,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -47152,11 +46264,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -47165,11 +46273,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -47178,11 +46282,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -47191,11 +46291,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -47204,11 +46300,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -47217,11 +46309,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -47230,11 +46318,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -47279,11 +46363,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -47292,11 +46372,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -47305,11 +46381,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -47597,11 +46669,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -47610,11 +46678,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -48325,11 +47389,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -48338,11 +47398,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -49053,11 +48109,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -49066,11 +48118,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -49781,11 +48829,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -49794,11 +48838,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -50509,11 +49549,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -50522,11 +49558,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -50535,11 +49567,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -50548,11 +49576,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -50561,11 +49585,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -50574,11 +49594,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -50587,11 +49603,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -50600,11 +49612,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -50613,11 +49621,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -50626,11 +49630,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -50639,11 +49639,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -50652,11 +49648,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -50665,11 +49657,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -50678,11 +49666,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -51285,11 +50269,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -51298,11 +50278,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -52013,11 +50989,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -52026,11 +50998,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -52741,11 +51709,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -52754,11 +51718,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -53469,11 +52429,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -53482,11 +52438,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -54197,11 +53149,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -54210,11 +53158,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -54223,11 +53167,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -54236,11 +53176,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -54249,11 +53185,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -54262,11 +53194,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -54275,11 +53203,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -54288,11 +53212,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -54301,11 +53221,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -54314,11 +53230,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -54327,11 +53239,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -54340,11 +53248,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -54353,11 +53257,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -54366,11 +53266,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -54460,11 +53356,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -54473,11 +53365,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -54486,11 +53374,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -54499,11 +53383,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -54512,11 +53392,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -54525,11 +53401,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -54538,11 +53410,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -54578,11 +53446,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -54591,11 +53455,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -54604,11 +53464,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -54617,11 +53473,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -54630,11 +53482,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -54643,11 +53491,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -54656,11 +53500,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -54669,11 +53509,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -54682,11 +53518,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -54695,11 +53527,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -54708,11 +53536,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -54721,11 +53545,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -54734,11 +53554,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -54747,11 +53563,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -54760,11 +53572,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -54773,11 +53581,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -54786,11 +53590,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -54799,11 +53599,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -54812,11 +53608,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -54852,11 +53644,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -54865,11 +53653,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -54878,11 +53662,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -54891,11 +53671,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -54904,11 +53680,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -54917,11 +53689,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -54930,11 +53698,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -54943,11 +53707,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -54956,11 +53716,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -54969,11 +53725,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -54982,11 +53734,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -54995,11 +53743,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -55008,11 +53752,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -55021,11 +53761,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -55034,11 +53770,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -55074,11 +53806,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -55087,11 +53815,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -55100,11 +53824,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -55113,11 +53833,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -55126,11 +53842,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -55139,11 +53851,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -55152,11 +53860,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -55165,11 +53869,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -55178,11 +53878,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -55290,11 +53986,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -55384,11 +54076,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -55577,11 +54265,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -55761,11 +54445,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -55909,11 +54589,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -55922,11 +54598,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -56034,11 +54706,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -56128,11 +54796,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -56321,11 +54985,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -56505,11 +55165,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -56653,11 +55309,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -56666,11 +55318,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -56778,11 +55426,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -56872,11 +55516,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -57065,11 +55705,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -57249,11 +55885,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -57397,11 +56029,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -57410,11 +56038,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -57522,11 +56146,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -57616,11 +56236,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -57809,11 +56425,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -57993,11 +56605,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -58141,11 +56749,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -58154,11 +56758,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -58266,11 +56866,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -58360,11 +56956,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -58553,11 +57145,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -58737,11 +57325,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -58885,11 +57469,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -58898,11 +57478,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -59100,11 +57676,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -59293,11 +57865,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -59477,11 +58045,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -59625,11 +58189,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -59638,11 +58198,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -59840,11 +58396,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -60213,11 +58765,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -60361,11 +58909,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -60374,11 +58918,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -60576,11 +59116,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -60949,11 +59485,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -61097,11 +59629,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -61110,11 +59638,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -61222,11 +59746,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -61316,11 +59836,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -61689,11 +60205,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -61837,11 +60349,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -61850,11 +60358,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -61962,11 +60466,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -62056,11 +60556,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -62249,11 +60745,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -62433,11 +60925,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -62581,11 +61069,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -62594,11 +61078,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -62706,11 +61186,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -62800,11 +61276,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -62993,11 +61465,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -63177,11 +61645,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -63325,11 +61789,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -63338,11 +61798,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -63450,11 +61906,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -63544,11 +61996,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -63737,11 +62185,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -63921,11 +62365,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -64069,11 +62509,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -64082,11 +62518,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -64194,11 +62626,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -64288,11 +62716,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -64481,11 +62905,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -64665,11 +63085,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -64813,11 +63229,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -64826,11 +63238,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -64839,11 +63247,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -64852,11 +63256,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -64865,11 +63265,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -64878,11 +63274,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -64891,11 +63283,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -64904,11 +63292,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -64917,11 +63301,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -64930,11 +63310,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -64943,11 +63319,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -64956,11 +63328,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -64969,11 +63337,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -64982,11 +63346,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -64995,11 +63355,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -65008,11 +63364,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -65021,11 +63373,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -65034,11 +63382,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -65047,11 +63391,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -65060,11 +63400,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -65073,11 +63409,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -65086,11 +63418,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -65099,11 +63427,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -65112,11 +63436,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -65125,11 +63445,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -65138,11 +63454,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -65151,11 +63463,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -65164,11 +63472,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -65177,11 +63481,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -65190,11 +63490,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -65203,11 +63499,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -65216,11 +63508,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -65229,11 +63517,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -65242,11 +63526,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -65255,11 +63535,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -65268,11 +63544,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -65281,11 +63553,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -65294,11 +63562,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -65307,11 +63571,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -65320,11 +63580,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -65333,11 +63589,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -65346,11 +63598,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -65359,11 +63607,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -65372,11 +63616,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -65385,11 +63625,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -65398,11 +63634,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -65411,11 +63643,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -65424,11 +63652,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -65437,11 +63661,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -65450,11 +63670,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -65463,11 +63679,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -65476,11 +63688,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -65489,11 +63697,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -65502,11 +63706,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -65515,11 +63715,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -65528,11 +63724,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -65541,11 +63733,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -65554,11 +63742,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -65567,11 +63751,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -65580,11 +63760,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -65593,11 +63769,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -65606,11 +63778,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -65619,11 +63787,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -65632,11 +63796,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -65645,11 +63805,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -65658,11 +63814,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -65671,11 +63823,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -65684,11 +63832,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -65697,11 +63841,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -65710,11 +63850,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -65723,11 +63859,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -65736,11 +63868,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -65749,11 +63877,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -65762,11 +63886,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -65775,11 +63895,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -65788,11 +63904,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -65801,11 +63913,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -65814,11 +63922,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -65827,11 +63931,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -65840,11 +63940,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -65853,11 +63949,7 @@ Tilemap:
       m_TileIndex: 2
       m_TileSpriteIndex: 2
       m_TileMatrixIndex: 0
-<<<<<<< HEAD
-      m_TileColorIndex: 0
-=======
       m_TileColorIndex: 1
->>>>>>> Floorplan
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
@@ -65896,17 +63988,10 @@ Tilemap:
       e32: 0
       e33: 1
   m_TileColorArray:
-<<<<<<< HEAD
-  - m_RefCount: 3201
-    m_Data: {r: 1, g: 1, b: 1, a: 1}
-  - m_RefCount: 0
-    m_Data: {r: 2.7437e-41, g: 2.7437e-41, b: 2.7437e-41, a: 2.7437e-41}
-=======
   - m_RefCount: 2743
     m_Data: {r: 1, g: 1, b: 1, a: 1}
   - m_RefCount: 458
     m_Data: {r: 1, g: 1, b: 1, a: 0}
->>>>>>> Floorplan
   - m_RefCount: 0
     m_Data: {r: 2.3203e-41, g: 2.3203e-41, b: 2.3203e-41, a: 2.3203e-41}
   m_AnimationFrameRate: 1

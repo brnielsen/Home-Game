@@ -3,11 +3,13 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.Tilemaps;
 
+
 public class player : MonoBehaviour {
     Rigidbody2D playerObject;
     public Sprite replace;
     Tile TReplace;
     public Tilemap tilemap;
+    public SpriteRenderer redgreen;
     public Tilemap colliding;
     public Sprite check;
     [SerializeField]
@@ -42,6 +44,22 @@ public class player : MonoBehaviour {
                 }
             }
         }
-
+        bool cont = true;
+        for(float posx = tilemap.localBounds.min.x; posx< tilemap.localBounds.max.x; posx+=tilemap.layoutGrid.cellSize.x)
+        {
+            for (float posy = tilemap.localBounds.min.y; posy < tilemap.localBounds.max.y; posy += tilemap.layoutGrid.cellSize.y)
+            {
+                if (!tilemap.GetSprite(tilemap.layoutGrid.LocalToCell(new Vector3(posx, posy, 0))).Equals(replace))
+                {
+                    cont = false;
+                    break;
+                }
+            }
+        }
+        //cont = true;
+        if (cont)
+        {
+            redgreen.color = new Color(0, 1, 0);
+        }
     }
 }
