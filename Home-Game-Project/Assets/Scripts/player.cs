@@ -52,12 +52,13 @@ public class player : MonoBehaviour {
                 if (!tilemap.GetSprite(tilemap.layoutGrid.LocalToCell(new Vector3(posx, posy, 0))).Equals(replace))
                 {
                     cont = false;
+                    break;
                 }
             }
         }
+        //cont = true;
         if (cont)
         {
-            Debug.Log("All good");
             redgreen.color = new Color(0, 1, 0);
         }
     }
