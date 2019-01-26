@@ -8,6 +8,10 @@ public class player : MonoBehaviour {
     public Sprite replace;
     Tile TReplace;
     public Tilemap tilemap;
+    public Tilemap colliding;
+    public Sprite check;
+    [SerializeField]
+    int moveSpeed = 5;
    	// Use this for initialization
 
 	void Start () {
@@ -19,17 +23,25 @@ public class player : MonoBehaviour {
 	// Update is called once per frame
 	void Update () {
         if (Input.GetAxisRaw("Horizontal") < 0)
-            playerObject.velocity = new Vector2(-1, 0);
+            playerObject.velocity = new Vector2(-moveSpeed, 0);
         else if (Input.GetAxisRaw("Horizontal") > 0)
-            playerObject.velocity = new Vector2(1, 0);
+            playerObject.velocity = new Vector2(moveSpeed, 0);
         else if (Input.GetAxisRaw("Vertical") < 0)
-            playerObject.velocity = new Vector2(0, -1);
+            playerObject.velocity = new Vector2(0, -moveSpeed);
         else if (Input.GetAxisRaw("Vertical") > 0)
-            playerObject.velocity = new Vector2(0, 1);
+            playerObject.velocity = new Vector2(0, moveSpeed);
 
         Vector3Int pos = tilemap.layoutGrid.WorldToCell(new Vector3(playerObject.transform.position.x, playerObject.transform.position.y, 0));
-        Debug.Log(playerObject.position);
-        Debug.Log(pos);
-        tilemap.SetTile(pos, TReplace);
+        for(int j=pos.x-2; j<pos.x+3; j++)
+        {
+            for (int i = pos.y - 2; i < pos.y + 3; i++)
+            {
+                if (!colliding.GetSprite(new Vector3Int(j, i, 0)).Equals(check))
+                {
+                    tilemap.SetTile(new Vector3Int(j, i, 0), TReplace);
+                }
+            }
+        }
+
     }
 }
