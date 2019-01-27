@@ -17,7 +17,7 @@ public class NScene : MonoBehaviour {
     private void Update()
     {
         if(SceneManager.GetActiveScene().Equals(SceneManager.GetSceneByName(currentSceneName)))
-            if (player.health <= 0)
+            if (player.currenthealthlevel <= 0)
                 SceneManager.LoadScene("LOSS");
     }
     // Use this for initialization
@@ -28,8 +28,17 @@ public class NScene : MonoBehaviour {
         {
             SceneManager.LoadScene("WIN");
             Debug.Log("Being Changed");
-        }
-        
+        }        
+    }
+
+    public void ChangeScene(string sceneToChangeTo)
+    {
+        SceneManager.LoadScene(sceneToChangeTo);
+    }
+
+    public void ExitGame()
+    {
+        Application.Quit();
     }
 
    

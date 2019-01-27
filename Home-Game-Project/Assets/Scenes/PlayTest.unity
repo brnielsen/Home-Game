@@ -95321,6 +95321,11 @@ Prefab:
       propertyPath: HealthText
       value: 
       objectReference: {fileID: 366794241}
+    - target: {fileID: 114570286375901492, guid: 2214e3fd55ff16d4987db88f55302268,
+        type: 2}
+      propertyPath: health
+      value: 10
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 2214e3fd55ff16d4987db88f55302268, type: 2}
   m_IsPrefabAsset: 0
