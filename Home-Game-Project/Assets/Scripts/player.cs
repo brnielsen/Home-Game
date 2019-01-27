@@ -8,22 +8,37 @@ public class player : MonoBehaviour {
     Rigidbody2D playerObject;
     public Sprite replace;
     Tile TReplace;
+    public int health;
+    public SpriteRenderer healthSprite;
     public Tilemap tilemap;
     public SpriteRenderer redgreen;
     public Tilemap colliding;
     public Sprite check;
+    public bool cont;
     [SerializeField]
     int moveSpeed = 5;
    	// Use this for initialization
 
 	void Start () {
+        health = 100;
         TReplace = ScriptableObject.CreateInstance<Tile>();
         playerObject = GetComponent<Rigidbody2D>();
         TReplace.sprite = replace;
 	}
-	
-	// Update is called once per frame
-	void Update () {
+    private void OnCollisionEnter2D(Collision2D other)
+    {
+        Debug.Log("in trig");
+        if (other.collider.CompareTag("hammer"))
+        {
+            float hammer_speed = (float)(other.otherCollider.GetComponentInParent<Rigidbody2D>().velocity.magnitude/6.0);
+            Debug.Log("hit hammer");
+            health -= (int)(2*hammer_speed);
+            healthSprite.transform.localScale = new Vector3((health<0)?0:(float)(healthSprite.transform.localScale.x -  1/2.0 * hammer_speed), healthSprite.transform.localScale.y);
+            healthSprite.transform.position = new Vector3((health < 0) ? 0 : (float)(healthSprite.transform.position.x - 1/4.0* hammer_speed), healthSprite.transform.position.y);
+        }
+    }
+    // Update is called once per frame
+    void Update () {
         if (Input.GetAxisRaw("Horizontal") < 0)
             playerObject.velocity = new Vector2(-moveSpeed, 0);
         else if (Input.GetAxisRaw("Horizontal") > 0)
@@ -41,10 +56,11 @@ public class player : MonoBehaviour {
                 if (!colliding.GetSprite(new Vector3Int(j, i, 0)).Equals(check))
                 {
                     tilemap.SetTile(new Vector3Int(j, i, 0), TReplace);
+                    //tilemap.SetColor(new Vector3Int(j, i, 0), new Color(194, 194, 194, 139));
                 }
             }
         }
-        bool cont = true;
+         cont = true;
         for(float posx = tilemap.localBounds.min.x; posx< tilemap.localBounds.max.x; posx+=tilemap.layoutGrid.cellSize.x)
         {
             for (float posy = tilemap.localBounds.min.y; posy < tilemap.localBounds.max.y; posy += tilemap.layoutGrid.cellSize.y)
