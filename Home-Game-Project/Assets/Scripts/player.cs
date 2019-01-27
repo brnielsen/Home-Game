@@ -2,13 +2,15 @@
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.Tilemaps;
+using UnityEngine.UI;
 
 
 public class player : MonoBehaviour {
     Rigidbody2D playerObject;
     public Sprite replace;
     Tile TReplace;
-    public int health;
+    public Text HealthText;
+    public float health = 50;
     public SpriteRenderer healthSprite;
     public Tilemap tilemap;
     public SpriteRenderer redgreen;
@@ -20,7 +22,6 @@ public class player : MonoBehaviour {
    	// Use this for initialization
 
 	void Start () {
-        health = 100;
         TReplace = ScriptableObject.CreateInstance<Tile>();
         playerObject = GetComponent<Rigidbody2D>();
         TReplace.sprite = replace;
@@ -30,11 +31,13 @@ public class player : MonoBehaviour {
         Debug.Log("in trig");
         if (other.collider.CompareTag("hammer"))
         {
-            float hammer_speed = (float)(other.otherCollider.GetComponentInParent<Rigidbody2D>().velocity.magnitude/6.0);
+            float hammer_speed = (float)(other.otherCollider.GetComponentInParent<Rigidbody2D>().velocity.magnitude/12);
             Debug.Log("hit hammer");
-            health -= (int)(2*hammer_speed);
-            healthSprite.transform.localScale = new Vector3((health<0)?0:(float)(healthSprite.transform.localScale.x -  1/2.0 * hammer_speed), healthSprite.transform.localScale.y);
-            healthSprite.transform.position = new Vector3((health < 0) ? 0 : (float)(healthSprite.transform.position.x - 1/4.0* hammer_speed), healthSprite.transform.position.y);
+            health -= hammer_speed;
+            if (health < 25)
+                HealthText.color = new Color(255, 0, 0);
+            healthSprite.transform.localScale = new Vector3((health < 0) ? 0 : health, healthSprite.transform.localScale.y);
+            healthSprite.transform.position = new Vector3(healthSprite.transform.position.x, healthSprite.transform.position.y);
         }
     }
     // Update is called once per frame

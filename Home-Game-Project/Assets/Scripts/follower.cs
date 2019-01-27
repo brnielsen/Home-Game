@@ -14,8 +14,8 @@ public class follower : MonoBehaviour {
 		for(int i=0; i<NumberHammers; i++)
         {
             followers[i] = Instantiate(follow);
-            followers[i].transform.position = new Vector3(Random.value * (map.localBounds.max.x - map.localBounds.min.x) + map.localBounds.min.x,
-                Random.value * (map.localBounds.max.y - map.localBounds.min.y) + map.localBounds.min.y, 0);
+            followers[i].transform.position = 0.9f * (new Vector3(Random.value * (map.localBounds.max.x - map.localBounds.min.x) + map.localBounds.min.x,
+                Random.value * (map.localBounds.max.y - map.localBounds.min.y) + map.localBounds.min.y, 0));
         }
 	}
 	

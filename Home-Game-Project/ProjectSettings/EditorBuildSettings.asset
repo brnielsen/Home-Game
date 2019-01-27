@@ -6,9 +6,12 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
-    guid: 6818637f3fac91c41b0b562fc90a9efd
+    path: Assets/Scenes/Level 1.unity
+    guid: 058d4521f76aebe4883edf2bf27f2e7f
   - enabled: 1
-    path: Assets/Scenes/level2_REMOTE_9208.unity
+    path: Assets/Scenes/WIN.unity
     guid: 1132f0f24b4715242aa6bfe1aad6c458
+  - enabled: 1
+    path: Assets/Scenes/LOSS.unity
+    guid: e0d0df1595c6336478c7c29947f31a77
   m_configObjects: {}
